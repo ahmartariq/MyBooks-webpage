@@ -1,6 +1,8 @@
-# BOOKS
+# MYBOOKS-WEBPAGE
 
-Hi, My name is **Ahmar Tariq** and i am a *frontend Developer*.  So this is a static webpage having information about some books. the technologies I used in this webpage are  `HTML` and `CSS` mainly.
+Hi, My name is **Ahmar Tariq** and I am a *frontend Developer*. So this is a static webpage having information about my favorite books. The technologies I used in this webpage are  `HTML` and `CSS`.
+
+visit the webpage: [mybooks-webpage](https://mybooks-webpage.netlify.app/)
 
 ### License
 
